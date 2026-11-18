@@ -1,0 +1,644 @@
+{
+ "version": 2,
+ "locale": "zh-TW",
+ "terms": {
+  "shoulder": [
+   "supraspinatus",
+   "infraspinatus",
+   "subscapularis",
+   "teres minor",
+   "rotator cuff",
+   "long head of biceps",
+   "biceps tendon",
+   "bicipital groove",
+   "transverse humeral ligament",
+   "subacromial-subdeltoid bursa",
+   "acromioclavicular joint",
+   "AC joint",
+   "coracoacromial ligament",
+   "coracohumeral ligament",
+   "glenohumeral joint",
+   "greater tuberosity",
+   "lesser tuberosity",
+   "rotator interval",
+   "posterior labrum",
+   "spinoglenoid notch",
+   "suprascapular nerve",
+   "subacromial impingement",
+   "dynamic impingement",
+   "full-thickness tear",
+   "partial-thickness tear",
+   "articular side",
+   "bursal side",
+   "intrasubstance tear",
+   "calcific tendinitis",
+   "adhesive capsulitis",
+   "frozen shoulder",
+   "axillary recess"
+  ],
+  "elbow": [
+   "common extensor tendon",
+   "common flexor tendon",
+   "lateral epicondyle",
+   "medial epicondyle",
+   "lateral epicondylitis",
+   "medial epicondylitis",
+   "tennis elbow",
+   "golfer's elbow",
+   "ulnar collateral ligament",
+   "ulnar nerve",
+   "cubital tunnel",
+   "olecranon bursa",
+   "radial head",
+   "annular ligament",
+   "posterior interosseous nerve",
+   "supinator",
+   "distal biceps tendon",
+   "triceps tendon"
+  ],
+  "wrist_hand": [
+   "median nerve",
+   "carpal tunnel",
+   "carpal tunnel syndrome",
+   "cross-sectional area",
+   "flexor retinaculum",
+   "pisiform",
+   "scaphoid",
+   "hamate",
+   "Guyon's canal",
+   "first dorsal compartment",
+   "abductor pollicis longus",
+   "extensor pollicis brevis",
+   "de Quervain's tenosynovitis",
+   "trigger finger",
+   "A1 pulley",
+   "flexor digitorum superficialis",
+   "flexor digitorum profundus",
+   "flexor pollicis longus",
+   "ganglion cyst",
+   "TFCC",
+   "extensor carpi ulnaris",
+   "intersection syndrome",
+   "superficial radial nerve"
+  ],
+  "hip": [
+   "greater trochanter",
+   "gluteus medius",
+   "gluteus minimus",
+   "trochanteric bursa",
+   "greater trochanteric pain syndrome",
+   "iliopsoas",
+   "iliopsoas bursa",
+   "rectus femoris",
+   "anterior hip recess",
+   "lateral femoral cutaneous nerve",
+   "meralgia paresthetica",
+   "hamstring tendon",
+   "ischial tuberosity"
+  ],
+  "knee": [
+   "quadriceps tendon",
+   "patellar tendon",
+   "suprapatellar recess",
+   "suprapatellar bursa",
+   "joint effusion",
+   "Baker's cyst",
+   "popliteal cyst",
+   "medial collateral ligament",
+   "lateral collateral ligament",
+   "pes anserine bursa",
+   "pes anserinus",
+   "medial meniscus",
+   "lateral meniscus",
+   "meniscal extrusion",
+   "iliotibial band",
+   "femoral cartilage",
+   "cartilage thickness",
+   "osteophyte",
+   "Hoffa's fat pad",
+   "prepatellar bursa",
+   "infrapatellar bursa",
+   "semimembranosus",
+   "medial gastrocnemius",
+   "synovial plica"
+  ],
+  "ankle_foot": [
+   "Achilles tendon",
+   "plantar fascia",
+   "plantar fasciitis",
+   "calcaneus",
+   "anterior talofibular ligament",
+   "calcaneofibular ligament",
+   "deltoid ligament",
+   "peroneus longus",
+   "peroneus brevis",
+   "peroneal tendons",
+   "tibialis posterior tendon",
+   "tibialis anterior tendon",
+   "tarsal tunnel",
+   "Morton's neuroma",
+   "retrocalcaneal bursa",
+   "sinus tarsi",
+   "anterior ankle recess",
+   "Haglund's deformity"
+  ],
+  "nerve": [
+   "brachial plexus",
+   "interscalene",
+   "supraclavicular",
+   "sciatic nerve",
+   "common peroneal nerve",
+   "fibular head",
+   "tibial nerve",
+   "radial nerve",
+   "spiral groove",
+   "fascicles",
+   "fascicular pattern",
+   "honeycomb appearance",
+   "nerve swelling",
+   "nerve entrapment",
+   "perineural"
+  ],
+  "finding": [
+   "hypoechoic",
+   "hyperechoic",
+   "anechoic",
+   "isoechoic",
+   "heterogeneous",
+   "homogeneous",
+   "echogenicity",
+   "fibrillar pattern",
+   "loss of fibrillar pattern",
+   "cortical irregularity",
+   "enthesopathy",
+   "enthesophyte",
+   "tendinopathy",
+   "tendinosis",
+   "tendinitis",
+   "tenosynovitis",
+   "synovitis",
+   "synovial hypertrophy",
+   "synovial proliferation",
+   "bursitis",
+   "bursal thickening",
+   "neovascularization",
+   "power Doppler",
+   "color Doppler",
+   "increased vascularity",
+   "hyperemia",
+   "anisotropy",
+   "acoustic shadowing",
+   "posterior acoustic enhancement",
+   "thickening",
+   "thinning",
+   "fluid collection",
+   "calcification",
+   "dynamic study",
+   "sonopalpation",
+   "tenderness",
+   "compressibility",
+   "longitudinal view",
+   "transverse view",
+   "short axis",
+   "long axis",
+   "double contour sign",
+   "bone erosion",
+   "cortical step-off"
+  ],
+  "procedure": [
+   "ultrasound-guided injection",
+   "in-plane approach",
+   "out-of-plane approach",
+   "hydrodissection",
+   "perineural injection",
+   "steroid injection",
+   "triamcinolone",
+   "Kenacort",
+   "lidocaine",
+   "dextrose prolotherapy",
+   "PRP",
+   "platelet-rich plasma",
+   "hyaluronic acid",
+   "aspiration",
+   "barbotage",
+   "normal saline",
+   "nerve block"
+  ],
+  "impression": [
+   "impression",
+   "suggestive of",
+   "compatible with",
+   "consistent with",
+   "rule out",
+   "no evidence of",
+   "status post",
+   "mild",
+   "moderate",
+   "severe",
+   "grade",
+   "follow-up",
+   "clinical correlation"
+  ],
+  "zh": [
+   "左側",
+   "右側",
+   "雙側",
+   "肌腱",
+   "肌腱炎",
+   "肌腱病變",
+   "滑囊",
+   "滑囊炎",
+   "積液",
+   "關節積液",
+   "鈣化",
+   "撕裂",
+   "部分撕裂",
+   "全層撕裂",
+   "增厚",
+   "變薄",
+   "發炎",
+   "壓痛",
+   "正常",
+   "異常",
+   "輕度",
+   "中度",
+   "重度",
+   "公分",
+   "毫米",
+   "平方毫米",
+   "橫切面",
+   "縱切面",
+   "長軸",
+   "短軸",
+   "低回音",
+   "高回音",
+   "無回音",
+   "血流增加",
+   "神經",
+   "腫脹",
+   "沾黏",
+   "注射",
+   "抽吸",
+   "疑似",
+   "合併",
+   "建議",
+   "追蹤"
+  ],
+  "user": []
+ },
+ "abbreviations": [
+  {
+   "abbr": "SASD",
+   "expansion": "subacromial-subdeltoid bursa",
+   "spoken": [
+    "s a s d",
+    "sasd"
+   ]
+  },
+  {
+   "abbr": "LHB",
+   "expansion": "long head of biceps",
+   "spoken": [
+    "l h b",
+    "LHBT",
+    "l h b t"
+   ]
+  },
+  {
+   "abbr": "SSP",
+   "expansion": "supraspinatus",
+   "spoken": [
+    "s s p"
+   ]
+  },
+  {
+   "abbr": "ISP",
+   "expansion": "infraspinatus",
+   "spoken": [
+    "i s p"
+   ]
+  },
+  {
+   "abbr": "SSC",
+   "expansion": "subscapularis",
+   "spoken": [
+    "s s c"
+   ]
+  },
+  {
+   "abbr": "AC joint",
+   "expansion": "acromioclavicular joint",
+   "spoken": [
+    "a c joint",
+    "ac joint"
+   ]
+  },
+  {
+   "abbr": "GH joint",
+   "expansion": "glenohumeral joint",
+   "spoken": [
+    "g h joint",
+    "gh joint"
+   ]
+  },
+  {
+   "abbr": "CET",
+   "expansion": "common extensor tendon",
+   "spoken": [
+    "c e t"
+   ]
+  },
+  {
+   "abbr": "CFT",
+   "expansion": "common flexor tendon",
+   "spoken": [
+    "c f t"
+   ]
+  },
+  {
+   "abbr": "UCL",
+   "expansion": "ulnar collateral ligament",
+   "spoken": [
+    "u c l"
+   ]
+  },
+  {
+   "abbr": "PIN",
+   "expansion": "posterior interosseous nerve",
+   "spoken": [
+    "p i n"
+   ]
+  },
+  {
+   "abbr": "CTS",
+   "expansion": "carpal tunnel syndrome",
+   "spoken": [
+    "c t s"
+   ]
+  },
+  {
+   "abbr": "CSA",
+   "expansion": "cross-sectional area",
+   "spoken": [
+    "c s a"
+   ]
+  },
+  {
+   "abbr": "TFCC",
+   "expansion": "triangular fibrocartilage complex",
+   "spoken": [
+    "t f c c"
+   ]
+  },
+  {
+   "abbr": "ECU",
+   "expansion": "extensor carpi ulnaris",
+   "spoken": [
+    "e c u"
+   ]
+  },
+  {
+   "abbr": "APL",
+   "expansion": "abductor pollicis longus",
+   "spoken": [
+    "a p l"
+   ]
+  },
+  {
+   "abbr": "EPB",
+   "expansion": "extensor pollicis brevis",
+   "spoken": [
+    "e p b"
+   ]
+  },
+  {
+   "abbr": "FDS",
+   "expansion": "flexor digitorum superficialis",
+   "spoken": [
+    "f d s"
+   ]
+  },
+  {
+   "abbr": "FDP",
+   "expansion": "flexor digitorum profundus",
+   "spoken": [
+    "f d p"
+   ]
+  },
+  {
+   "abbr": "GTPS",
+   "expansion": "greater trochanteric pain syndrome",
+   "spoken": [
+    "g t p s"
+   ]
+  },
+  {
+   "abbr": "LFCN",
+   "expansion": "lateral femoral cutaneous nerve",
+   "spoken": [
+    "l f c n"
+   ]
+  },
+  {
+   "abbr": "MCL",
+   "expansion": "medial collateral ligament",
+   "spoken": [
+    "m c l"
+   ]
+  },
+  {
+   "abbr": "LCL",
+   "expansion": "lateral collateral ligament",
+   "spoken": [
+    "l c l"
+   ]
+  },
+  {
+   "abbr": "ITB",
+   "expansion": "iliotibial band",
+   "spoken": [
+    "i t b"
+   ]
+  },
+  {
+   "abbr": "ATFL",
+   "expansion": "anterior talofibular ligament",
+   "spoken": [
+    "a t f l"
+   ]
+  },
+  {
+   "abbr": "CFL",
+   "expansion": "calcaneofibular ligament",
+   "spoken": [
+    "c f l"
+   ]
+  },
+  {
+   "abbr": "PTT",
+   "expansion": "posterior tibial tendon",
+   "spoken": [
+    "p t t"
+   ]
+  },
+  {
+   "abbr": "PRP",
+   "expansion": "platelet-rich plasma",
+   "spoken": [
+    "p r p"
+   ]
+  },
+  {
+   "abbr": "PD",
+   "expansion": "power Doppler",
+   "spoken": [
+    "p d"
+   ]
+  },
+  {
+   "abbr": "r/o",
+   "expansion": "rule out",
+   "spoken": [
+    "r o",
+    "rule out"
+   ]
+  },
+  {
+   "abbr": "s/p",
+   "expansion": "status post",
+   "spoken": [
+    "s p",
+    "status post"
+   ]
+  },
+  {
+   "abbr": "OA",
+   "expansion": "osteoarthritis",
+   "spoken": [
+    "o a"
+   ]
+  },
+  {
+   "abbr": "RA",
+   "expansion": "rheumatoid arthritis",
+   "spoken": [
+    "r a"
+   ]
+  }
+ ],
+ "misrecognitions": {
+  "super spinatus": "supraspinatus",
+  "supra spinatus": "supraspinatus",
+  "supra-spinatus": "supraspinatus",
+  "infra spinatus": "infraspinatus",
+  "sub scapularis": "subscapularis",
+  "subscapularus": "subscapularis",
+  "gleno humeral": "glenohumeral",
+  "acromio clavicular": "acromioclavicular",
+  "hypo echoic": "hypoechoic",
+  "hypo-echoic": "hypoechoic",
+  "hyper echoic": "hyperechoic",
+  "hyper-echoic": "hyperechoic",
+  "an echoic": "anechoic",
+  "iso echoic": "isoechoic",
+  "fibrilla pattern": "fibrillar pattern",
+  "fibular pattern": "fibrillar pattern",
+  "tendonopathy": "tendinopathy",
+  "tendonitis": "tendinitis",
+  "tendinosus": "tendinosis",
+  "teno synovitis": "tenosynovitis",
+  "de cavain": "de Quervain",
+  "de quervain": "de Quervain",
+  "dequervain": "de Quervain",
+  "de kervain": "de Quervain",
+  "bakers cyst": "Baker's cyst",
+  "baker cyst": "Baker's cyst",
+  "hoffa fat pad": "Hoffa's fat pad",
+  "planter fascia": "plantar fascia",
+  "planter fasciitis": "plantar fasciitis",
+  "achilles tendon": "Achilles tendon",
+  "a kill ease": "Achilles",
+  "power doppler": "power Doppler",
+  "color doppler": "color Doppler",
+  "pes anserine us": "pes anserinus",
+  "guyons canal": "Guyon's canal",
+  "guyon canal": "Guyon's canal",
+  "mortons neuroma": "Morton's neuroma",
+  "entheso pathy": "enthesopathy",
+  "neo vascularization": "neovascularization",
+  "hydro dissection": "hydrodissection",
+  "keno cort": "Kenacort",
+  "kenacourt": "Kenacort",
+  "雞鍵": "肌腱",
+  "肌鍵": "肌腱",
+  "急液": "積液",
+  "擊液": "積液",
+  "華囊": "滑囊",
+  "滑浪": "滑囊",
+  "蓋化": "鈣化",
+  "撕列": "撕裂",
+  "Suprascapular nerve": "supraspinatus",
+  "cast vacation": "calcification",
+  "Stand": "tendon",
+  "For faster For finest": "full-thickness",
+  "for fine": "full-thickness",
+  "Run boy": "rhomboid"
+ },
+ "templates": {
+  "classes": {
+   "side": [
+    "左側",
+    "右側",
+    "雙側",
+    "right",
+    "left",
+    "bilateral"
+   ],
+   "structure": [
+    "supraspinatus",
+    "infraspinatus",
+    "subscapularis",
+    "long head of biceps",
+    "SASD bursa",
+    "common extensor tendon",
+    "median nerve",
+    "ulnar nerve",
+    "patellar tendon",
+    "quadriceps tendon",
+    "Achilles tendon",
+    "plantar fascia",
+    "gluteus medius",
+    "first dorsal compartment",
+    "A1 pulley",
+    "medial meniscus"
+   ],
+   "finding": [
+    "thickening",
+    "partial-thickness tear",
+    "full-thickness tear",
+    "calcification",
+    "tendinopathy",
+    "tenosynovitis",
+    "bursitis",
+    "effusion",
+    "hypoechoic change",
+    "increased vascularity",
+    "nerve swelling",
+    "肌腱炎",
+    "積液",
+    "鈣化",
+    "增厚",
+    "撕裂"
+   ]
+  },
+  "patterns": [
+   "<side> <structure> 有 <finding>",
+   "<side> <structure> <finding>",
+   "<structure> 可見 <finding>",
+   "<side> <structure> with <finding>",
+   "<structure> 疑似 <finding>",
+   "impression <side> <structure> <finding>"
+  ]
+ },
+ "updatedAt": "2026-11-18T22:28:38"
+}

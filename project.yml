@@ -1,0 +1,29 @@
+name: MSKEcho
+options:
+  bundleIdPrefix: tw.flasg
+  deploymentTarget:
+    iOS: "17.0"
+  createIntermediateGroups: true
+targets:
+  MSKEcho:
+    type: application
+    platform: iOS
+    sources:
+      - path: MSKEcho
+    info:
+      path: MSKEcho/Info.plist
+      properties:
+        CFBundleDisplayName: MSK口述
+        CFBundleDevelopmentRegion: zh-Hant
+        UILaunchScreen: {}
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]
+        NSMicrophoneUsageDescription: 需要使用麥克風進行超音波報告口述。
+        NSSpeechRecognitionUsageDescription: 在 iPhone 本機將口述轉為文字，音訊不會上傳到任何伺服器。
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: tw.john.mskecho
+        MARKETING_VERSION: "0.1.0"
+        CURRENT_PROJECT_VERSION: "1"
+        SWIFT_VERSION: "5.0"
+        TARGETED_DEVICE_FAMILY: "1"
+        DEVELOPMENT_TEAM: "68SK4YV9F9"

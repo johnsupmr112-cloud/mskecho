@@ -1,0 +1,17 @@
+# Xcode（專案檔由 project.yml 產生：執行 scripts/regen.sh）
+MSKEcho.xcodeproj/
+MSKEcho/Info.plist
+xcuserdata/
+DerivedData/
+build/
+*.xcuserstate
+
+# macOS
+.DS_Store
+
+# 從 iPhone 匯出的學習資料原始檔（可能含定稿句子，不進版本庫）
+MSKEcho-learning-*.json
+exports/
+
+# Python
+__pycache__/
